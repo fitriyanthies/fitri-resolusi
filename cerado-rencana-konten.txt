@@ -3,6 +3,7 @@ RENCANA KONTEN CERADO
 - Pola dasar baju wanita
 * membuat pola dasar baju menggunakan pola kecil
 ^ pola anak
+^ pola rok
 * membuat pola dasar baju menggunakan pola besar
 - Menjahit celana 
 * membuat celana gemes
