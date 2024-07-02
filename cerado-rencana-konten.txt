@@ -1,5 +1,7 @@
 RENCANA KONTEN CERADO
 
 - Pola dasar baju wanita
+* membuat pola dasar baju menggunakan pola kecil
+* membuat pola dasar baju menggunakan pola besar
 - Menjahit celana 
 - Fashin Show
