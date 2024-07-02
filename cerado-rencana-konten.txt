@@ -5,6 +5,8 @@ RENCANA KONTEN CERADO
 ^ pola anak
 ^ pola rok
 * membuat pola dasar baju menggunakan pola besar
+^ membuat pola di kertas karton
+^ pola anak
 - Menjahit celana 
 * membuat celana gemes
 ^ celana kerja wanita
