@@ -4,4 +4,5 @@ RENCANA KONTEN CERADO
 * membuat pola dasar baju menggunakan pola kecil
 * membuat pola dasar baju menggunakan pola besar
 - Menjahit celana 
+* membuat celana gemes
 - Fashin Show
